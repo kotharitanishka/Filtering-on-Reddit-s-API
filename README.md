@@ -52,9 +52,6 @@ To set up and run the project locally, follow these steps:
 
 Contributions to this project are welcome! If you have any suggestions, bug reports, or improvements, please submit a pull request or open an issue in the project repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
